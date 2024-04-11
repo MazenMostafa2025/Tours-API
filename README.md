@@ -12,7 +12,7 @@ Tour Routes:
 • PATCH /tours/:id - Update a tour by ID (Admin role)  
 • DELETE /tours/:id - Delete a tour by ID (Admin role)  
 
-User Routes:
+User Routes:  
 • POST /users/signup - Sign up a new user  
 • POST /users/login - Login an existing user  
 • POST /users/forgetPassword - Request to reset password  
