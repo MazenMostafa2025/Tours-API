@@ -24,7 +24,7 @@ User Routes:
 • PATCH /users/updatePassword - Update current user password  
 • DELETE /users/deleteMe - Delete current user (and associated data)  
 
-Review Routes
+Review Routes:  
 • GET /reviews/ - Get all reviews  
 • POST /reviews/ - Create a new review (User role)  
 
